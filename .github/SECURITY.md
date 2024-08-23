@@ -15,9 +15,9 @@ To report a security vulnerability, please follow these steps:
    - Any suggestions for how the vulnerability might be mitigated or fixed.
 
 3. **Our Response**: 
-   - We aim to acknowledge receipt of your report within [X] business days. However, as a small organization, our response time may vary. We promise that even if there are delays, we will review your report and respond as soon as we are able.
-   - If you do not receive a response within [Y] days, please feel free to resend your report. 
-   - In the unlikely event that you still haven’t received a response after [Z] days, we implore you to pester us again.
+   - We aim to acknowledge receipt of your report within 3-5 business days. However, as a small organization, our response time may vary. We promise that even if there are delays, we will review your report and respond as soon as we are able.
+   - If you do not receive a response within 7 to 10 days, please feel free to resend your report. 
+   - In the unlikely event that you still haven’t received a response after 14 buisness days, we implore you to pester us again.
 
 4. **Disclosure**:
    - Once the vulnerability has been addressed, we will work with you to coordinate the public disclosure of the vulnerability and the fix.
